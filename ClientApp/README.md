@@ -15,8 +15,6 @@ All components and services were included using `ng` commands
 - ng generate component component-name
 - ng generate service service-name
 
-In the case of a huge return in datase, was implemented a pagination link
-
 ## Development server
 
 Before run this Web App, follow the steps below:
